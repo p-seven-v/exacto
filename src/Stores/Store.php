@@ -6,5 +6,4 @@ namespace P7v\Exacto\Stores;
 
 interface Store
 {
-
 }
