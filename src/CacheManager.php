@@ -16,6 +16,5 @@ class CacheManager
 
     private function create(string $name)
     {
-
     }
 }
