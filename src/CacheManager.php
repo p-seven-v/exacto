@@ -6,4 +6,5 @@ namespace P7v\Exacto;
 
 class CacheManager
 {
+
 }

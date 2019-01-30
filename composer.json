@@ -18,8 +18,16 @@
             "P7v\\Exacto\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": {
+            "P7v\\Exacto\\Tests\\": "tests/"
+        }
+    },
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    }
 }
